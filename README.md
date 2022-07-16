@@ -37,6 +37,21 @@ Binary Search Tree Projesi
   * [3,5,7,8,2,9,4,15,6]
   * [3,5,7,8,2,9,4,15,6]
 
+# Insertion Sort Projesi
 
+[16,21,11,8,12,22] -> Merge Sort
+
+- Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+                                                               *[16,21,11,8,12,22]
+                                                            * [16,21,11]  [8,12,22]
+                                                        * [16,21] [11]      [8,12] [22]
+                                                     * [16] [21]                 [8] [12]
+                                                        * [16,21] [11]      [8,12] [22]
+                                                          * [11,16,21]     [8,12,22]
+                                                              * [8,11,12,16,21,22]    
+- Big-O gösterimini yazınız.
+ * Worst case   --> O(nlogn)
+ * Average case --> O(nlogn)
+ * Best case    --> O(nlogn)
 
 
