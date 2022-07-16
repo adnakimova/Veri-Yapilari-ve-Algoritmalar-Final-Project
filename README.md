@@ -61,6 +61,4 @@ Binary Search Tree Projesi
 
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
--    7
--   /
--  5
+![]C:\Users\akimo_000\Downloads
