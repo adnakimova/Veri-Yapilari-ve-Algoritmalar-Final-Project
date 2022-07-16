@@ -61,4 +61,4 @@ Binary Search Tree Projesi
 
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
-![](C:\Users\akimo_000\Downloads\bst.png)
+![Binary Search Tree](https://github.com/adnakimova/Veri-Yapilari-ve-Algoritmalar-Final-Project/blob/main/bst.png)
